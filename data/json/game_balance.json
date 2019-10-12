@@ -106,7 +106,7 @@
   },
   {
     "type": "EXTERNAL_OPTION",
-    "name": "SAFE_AUTDOC",
+    "name": "SAFE_AUTODOC",
     "info": "Makes autodoc operations completely safe, independent of the players skill.",
     "stype": "bool",
     "value": false
